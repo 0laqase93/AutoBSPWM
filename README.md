@@ -7,14 +7,14 @@
 
 # Instalación
 ```
-git clone https://github.com/Justice-Reaper/AutoBSPWM.git  
+git clone https://github.com/0laqase93/AutoBSPWM.git 
 cd AutoBSPWM/  
 chmod +x AutoBSPWM.sh  
 ./AutoBSPWM.sh  
 ```
 
 ## Vista general
-![Preview Entorno BSPWM](/Preview/image.png "autoBSPWM by justice-reaper")
+![Preview Entorno BSPWM](/Preview/image.png "autoBSPWM by justice-reaper(0laqase93)")
 
 ## Componentes:
 - **imagemagick**: Suite de software para crear, editar o convertir imágenes desde la línea de comandos.
@@ -123,5 +123,5 @@ chmod +x AutoBSPWM.sh
 <kbd>Mkt</kbd>: Se crean varios directorios de trabajo.  
 
 ## Créditos
-- Autor: Justice-Reaper
+- Autor: Justice-Reaper(0laqase93)
 - Inspiración: Entorno mostrado en la academia de hack4u de s4vitar
